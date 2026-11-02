@@ -1,0 +1,100 @@
+{
+    "builtAt": "2026-11-02T12:47:33+09:00",
+    "profile": "GitHubPages",
+    "unity": "6000.0.66f2",
+    "unityMinor": "6000.0",
+    "urp": "17.0.4",
+    "addressables": "2.11.2",
+    "buildTarget": "StandaloneWindows64",
+    "catalog": "catalog_content.bin",
+    "catalogHash": "f614ad2268d80973a7c1f137af161800",
+    "loadPath": "https://gigistudiodeve.github.io/addressables-cdn/A/6000.0/StandaloneWindows64",
+    "entries": [
+        {
+            "address": "A/Audio/SFX/Tone",
+            "group": "A_Audio",
+            "labels": [
+                "audio",
+                "sfx"
+            ]
+        },
+        {
+            "address": "A/Models/Props/TestCube",
+            "group": "A_Models",
+            "labels": [
+                "model",
+                "props"
+            ]
+        },
+        {
+            "address": "A/Models/Props/TestCube2",
+            "group": "A_Models",
+            "labels": [
+                "model",
+                "props"
+            ]
+        },
+        {
+            "address": "A/Scenes/TestRoom",
+            "group": "A_Scenes",
+            "labels": [
+                "scene"
+            ]
+        },
+        {
+            "address": "A/Shared/M_TestCube",
+            "group": "A_Shared",
+            "labels": []
+        },
+        {
+            "address": "A/Shared/T_TestCube_BaseMap",
+            "group": "A_Shared",
+            "labels": [
+                "props",
+                "texture"
+            ]
+        },
+        {
+            "address": "A/Textures/Test/TestPattern",
+            "group": "A_Textures",
+            "labels": [
+                "test",
+                "texture"
+            ]
+        }
+    ],
+    "bundles": [
+        {
+            "file": "a_audio_assets_a_audio_sfx_tone_acf7ae8070a52b09a98ec52f069be250.bundle",
+            "bytes": 25340
+        },
+        {
+            "file": "a_models_assets_a_models_props_testcube_8319189b51aa732c6918ff50b44dbc76.bundle",
+            "bytes": 3365
+        },
+        {
+            "file": "a_models_assets_a_models_props_testcube2_a8b9c3c8df17393a64449e9ce406a1d9.bundle",
+            "bytes": 3362
+        },
+        {
+            "file": "A_monoscripts_704af518d296565e6f0d76cfba5ccd85.bundle",
+            "bytes": 1602
+        },
+        {
+            "file": "a_scenes_scenes_a_scenes_testroom_1261a73c90b28c241b9f34a08e4d2ba0.bundle",
+            "bytes": 325536
+        },
+        {
+            "file": "a_shared_assets_all_40b24ed4a6e46e07f3b1388511503231.bundle",
+            "bytes": 61572
+        },
+        {
+            "file": "a_textures_assets_a_textures_test_testpattern_9bbefaf0fc2081d0155654b62504f3b8.bundle",
+            "bytes": 63395
+        },
+        {
+            "file": "A_unitybuiltinassets_9e743b846cae11f9a724f7ec6995d451.bundle",
+            "bytes": 20966
+        }
+    ]
+}
